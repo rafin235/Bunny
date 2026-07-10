@@ -88,32 +88,3 @@
 		"hostOnly": false,
 		"creation": "2026-07-10T16:53:19.052Z",
 		"lastAccessed": "2026-07-10T16:53:19.052Z"
-	},
-	{
-		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A3212%3Btimestamp%3A1783702062",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-07-10T16:53:19.052Z",
-		"lastAccessed": "2026-07-10T16:53:19.052Z"
-	},
-	{
-		"key": "fbl_st",
-		"value": "101725640%3BT%3A29728367",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-07-10T16:53:19.052Z",
-		"lastAccessed": "2026-07-10T16:53:19.052Z"
-	},
-	{
-		"key": "vpd",
-		"value": "v1%3B826x424x2.294114351272583",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-07-10T16:53:19.052Z",
-		"lastAccessed": "2026-07-10T16:53:19.052Z"
-	}
-]
